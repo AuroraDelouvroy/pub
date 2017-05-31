@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 25,
     "versionPublish": "3.12.1",
@@ -734,7 +734,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span>CONTACT<br>&nbsp;<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Email: Aurora.Delouvroy@gmail.com</span><br>\nPhone:&nbsp;<br><br>",
+          "text1": "<span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span>CONTACT<br>&nbsp;<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Email: Aurora.Delouvroy@gmail.com</span><br>",
           "text2": "<p><br></p><p><br></p><p><br></p>",
           "form": {
             "title": "MESSAGE",
